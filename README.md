@@ -1,8 +1,5 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="300" src="mateus.png" />
-  </a>
-  <a href="#">
     <img align="center" width="450" src="dev.gif" />
   </a>
 </p>
@@ -12,28 +9,27 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact&langs_count=7&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielScosta&layout=compact&langs_count=7&theme=dracula"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=teteusAraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=AdrielScosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     />
   </a>
 </p>
 
-## Olá, eu sou o Mateus! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá, eu sou o Adriel! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Engenheiro de Software Jr no Itaú Unibanco. </p>
-<p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
+<p> - 👨‍💻 Engenheiro de Software Jr na Young Empreendimentos. </p>
+<p> - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas </p>
+<p> - 👨‍🎓 Cursando Engenharia de Produção </p>
 <p> - 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS , kafka e Docker . </p>
-<p> - 🦊 Quando me perguntaram o que eu queria ser ? há um tempo atrás a minha resposta foi "SER HOKAGE" e hoje eu sou um engenheiro de software, nada haver kkk. Sou fã do anime Naruto , eaê, bora assistir uns filler juntos ? </p>
-<p> - 🎮 Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe </p>
   
 </div>
 
@@ -63,15 +59,15 @@
 ## Meus contatos :iphone:
 
 <p align="center">
-    <a href="https://github.com/teteusAraujo">
+    <a href="https://github.com/AdrielScosta">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:mateusaraujo996@gmail.com">
+    <a href="mailto:adrielsouzadacosta@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/mateusaraujobarros">
+    <a href="https://www.linkedin.com/in/AdrielSouza99">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
     </a>
 </p>
@@ -80,7 +76,7 @@
 
  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/AdrielScosta/count.svg" />
  </p>
 
 </p>
