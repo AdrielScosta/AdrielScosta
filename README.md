@@ -1,49 +1,86 @@
+<p align="center">
+  <a href="#">
+    <img align="center" width="300" src="mateus.png" />
+  </a>
+  <a href="#">
+    <img align="center" width="450" src="dev.gif" />
+  </a>
+</p>
+</br>
+</br>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact&langs_count=7&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=teteusAraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+  </a>
+</p>
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/AdrielScosta/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+## Olá, eu sou o Mateus! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AdrielScosta&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-AdrielScosta.vercel.app/api/top-langs/?username=AdrielScosta&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
-
-
-
-## My Skills
-
-#### Main Stack:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Studying in this moment:
-
-![Java](https://img.shields.io/badge/JAVA-4285F4?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-
-#### Databases:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MySql](https://img.shields.io/badge/MySql-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-## Contacts:
-
-<div> 
-<a href="https://www.instagram.com/adrielsouzau" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:adrielsouzadacosta@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/AdrielSouza99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+### Sobre mim
+<div style="display: inline_block"  >
+<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
+<p> - 👨‍💻 Engenheiro de Software Jr no Itaú Unibanco. </p>
+<p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
+<p> - 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS , kafka e Docker . </p>
+<p> - 🦊 Quando me perguntaram o que eu queria ser ? há um tempo atrás a minha resposta foi "SER HOKAGE" e hoje eu sou um engenheiro de software, nada haver kkk. Sou fã do anime Naruto , eaê, bora assistir uns filler juntos ? </p>
+<p> - 🎮 Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe </p>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+</div>
+
+## Minhas skills :nerd_face:
+<div align="center">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
+    
+   
+</div>
+
+## Meus contatos :iphone:
+
+<p align="center">
+    <a href="https://github.com/teteusAraujo">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:mateusaraujo996@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mateusaraujobarros">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
+    </a>
+</p>
+
+<p align="center"> 
+
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+ </p>
+
+</p>
