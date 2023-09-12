@@ -6,7 +6,7 @@
 </br>
 </br>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/AdrielScosta">
     <img
       align="center"
       height="165"
