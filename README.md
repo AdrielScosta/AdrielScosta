@@ -1,11 +1,4 @@
 <p align="center">
-  <a href="#">
-    <img align="center" width="450" src="dev.gif" />
-  </a>
-</p>
-</br>
-</br>
-<p align="center">
   <a href="https://github.com/AdrielScosta">
     <img
       align="center"
@@ -22,7 +15,7 @@
   </a>
 </p>
 
-## Olá, eu sou o Adriel! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello world, my name is Adriel! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim
 <div style="display: inline_block"  >
