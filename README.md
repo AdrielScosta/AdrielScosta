@@ -23,7 +23,7 @@
 <p> - 👨‍💻 Engenheiro de Software Jr na Young Empreendimentos. </p>
 <p> - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas </p>
 <p> - 👨‍🎓 Cursando Engenharia de Produção </p>
-<p> - 🎯 Interesse: Java, Spring Boot, API , HTML, CSS, JavaScript, AWS e NodeJs . </p>
+<p> - 🎯 Interesse: Java, Spring Boot, API , HTML, CSS, JavaScript, AWS, NodeJs, Ruby e RoR . </p>
   
 </div>
 
@@ -42,6 +42,8 @@
     <img height="40" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 </div>
 
 ## Meus contatos :iphone:
