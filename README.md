@@ -20,10 +20,10 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Engenheiro de Software Jr na Young Empreendimentos. </p>
+<p> - 👨‍💻 Engenheiro de Software na Spread Tecnologia </p>
 <p> - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas </p>
-<p> - 👨‍🎓 Cursando Engenharia de Produção </p>
-<p> - 🎯 Interesse: Java, Spring Boot, API , HTML, CSS, JavaScript, AWS, NodeJs, Ruby e RoR . </p>
+<p> - 👨‍🎓 Formado em Engenharia de Produção </p>
+<p> - 🎯 Interesse: Java, Spring Boot, API , HTML, CSS, JavaScript, AWS, NodeJs, Golang . </p>
   
 </div>
 
